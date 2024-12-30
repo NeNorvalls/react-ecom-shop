@@ -1,7 +1,7 @@
 # JAVASCRIPT FRAMEWORKS CA
+[view here](https://ecommerce-shopping-store.netlify.app/)
 
 ## List todo
-
 - Process
 - Create a new CRA app.
 - Create a Header that has a Nav.
