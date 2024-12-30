@@ -118,3 +118,67 @@
 - [ /] The submission contains a shopping cart that can have products added to it.
 - [ /] Look ahead and plan and carry out work with JavaScript frameworks and develop solutions based on specifications
   can exchange points of view with his/her peers and participate in discussions about the use of JavaScript frameworks in the development of digital solutions
+
+## Technologies Used
+
+The following libraries and tools were used in the development of this project:
+
+### 1. **React** 
+   - **Version**: `^19.0.0`
+   - React is a popular JavaScript library for building user interfaces. It allows us to create reusable components and manage the state of our application efficiently.
+
+### 2. **React DOM**
+   - **Version**: `^19.0.0`
+   - React DOM is used to render React components into the DOM and manage the web app's UI updates.
+
+### 3. **Redux**
+   - **Version**: `^5.0.1`
+   - Redux is a state management library that helps us manage the application's state in a centralized store, making the state accessible from any component.
+
+### 4. **React-Redux**
+   - **Version**: `^9.2.0`
+   - React-Redux is a set of bindings for using Redux with React. It allows us to interact with the Redux store from React components.
+
+### 5. **React Router DOM**
+   - **Version**: `^7.1.1`
+   - React Router DOM enables us to handle routing in the application, allowing users to navigate between different pages.
+
+### 6. **Axios**
+   - **Version**: `^1.7.9`
+   - Axios is a promise-based HTTP client that is used to make API calls to the backend and retrieve data asynchronously.
+
+### 7. **Styled Components**
+   - **Version**: `^6.1.13`
+   - Styled Components is a library for styled components, allowing us to write plain CSS inside JavaScript files to style components in a modular and reusable way.
+
+### 8. **Bootstrap**
+   - **Version**: `^5.3.3`
+   - Bootstrap is a front-end framework used for building responsive, mobile-first websites. It provides pre-built components and utilities for quickly styling the app.
+
+### 9. **Font Awesome**
+   - **Version**: `^6.7.2`
+   - Font Awesome is a popular icon library used for adding scalable vector icons to the UI.
+
+### 10. **React Toastify**
+   - **Version**: `^11.0.2`
+   - React Toastify is a library for displaying toast notifications in React applications, which is used here for showing messages to users.
+
+### 11. **React Scripts**
+   - **Version**: `^5.0.1`
+   - React Scripts is used to provide the necessary build tools for React applications. It simplifies the setup and handling of Webpack, Babel, and other development tools.
+
+### 12. **Web Vitals**
+   - **Version**: `^4.2.4`
+   - Web Vitals is a library used to measure essential web performance metrics like loading time, interactivity, and visual stability.
+
+### 13. **Jest & React Testing Library**
+   - **Jest**:
+     - **Version**: `^26.6.3`
+     - Jest is a testing framework used for writing unit and integration tests for React applications.
+   - **React Testing Library**:
+     - **Version**: `^16.1.0`
+     - React Testing Library is used for testing React components in a way that simulates real user behavior, ensuring better test reliability.
+
+### 14. **ESLint**
+   - ESLint is a static code analysis tool used to identify and fix problems in the JavaScript codebase. The configuration is set up for React development and Jest testing.
+
