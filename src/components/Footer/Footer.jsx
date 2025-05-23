@@ -1,16 +1,16 @@
 import React from 'react';
 import { FooterContainer, ScrollButton } from './Footer.styles';
 
-const portfolioURL = "https://nenorvalls-portfolio.netlify.app/";
+// const portfolioURL = "https://nenorvalls-portfolio.netlify.app/";
 
 function Footer() {
   const handleScrollToTop = () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
-  const handleGoBackToPortfolio = () => {
-    window.location.href = portfolioURL;
-  };
+  // const handleGoBackToPortfolio = () => {
+  //   window.location.href = portfolioURL;
+  // };
 
   return (
     <>
